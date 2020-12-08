@@ -11,3 +11,5 @@
 ## tidu.py 用于图像的梯度计算处理，使用的是sobel算子，[链接](https://blog.csdn.net/lovetobelove/article/details/86618324)
 ## opencv利用霍夫变换检测圆形物体
 - 可以利用利用霍夫变换检测圆形物体
+## 移动图像
+- 可以通过设定阈值使用python和opencv将文件中比较暗的图像和模糊的图像移到另一个文件夹
