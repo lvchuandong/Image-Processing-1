@@ -13,3 +13,5 @@
 - 可以利用利用霍夫变换检测圆形物体
 ## 移动图像
 - 可以通过设定阈值使用python和opencv将文件中比较暗的图像和模糊的图像移到另一个文件夹，或者对比两个文件夹中的文件不同
+## VOC数据集格式转KITTI数据集
+- 将voc数据集转换成kitti数据集格式，voc数据集用的[Urban Object Detection dataset](http://www.rovit.ua.es/dataset/traffic/#explore)
